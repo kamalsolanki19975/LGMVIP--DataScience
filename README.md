@@ -15,7 +15,7 @@
 #### Dataset: https://www.canva.com/link?target=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fkkbox-music-recommendation-challenge%2Fdata&design=DAEjrwWV35w&accessRole=viewer&linkSource=document
 #### LinkedIn: 
 
-#### Task 4 - Image to Pencil Sketch with Python
+## Task 4 - Image to Pencil Sketch with Python
 #### IDE: Google Colab
 #### Dataset : https://www.canva.com/link?target=https%3A%2F%2Fthecleverprogrammer.com%2F2020%2F09%2F30%2Fpencil-sketch-with-python%2F&design=DAEjrwWV35w&accessRole=viewer&linkSource=document
 #### LinkedIn: 
