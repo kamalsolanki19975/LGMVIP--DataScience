@@ -1,9 +1,9 @@
 # LGMVIP--DataScience
 
 ## Task 1 - Iris Flower Classification ML Project.
-## IDE : Visual Code Studio (VS Code)
-## Dataset: https://www.canva.com/link?target=http%3A%2F%2Farchive.ics.uci.edu%2Fml%2Fdatasets%2FIris&design=DAEjrwWV35w&accessRole=viewer&linkSource=document 
-## LinkedIn: https://www.linkedin.com/posts/kamal-solanki-46471522a_task1-github-internship-activity-6959950362090893313-wPbV?utm_source=linkedin_share&utm_medium=member_desktop_web
+#### IDE : Visual Code Studio (VS Code)
+#### Dataset: https://www.canva.com/link?target=http%3A%2F%2Farchive.ics.uci.edu%2Fml%2Fdatasets%2FIris&design=DAEjrwWV35w&accessRole=viewer&linkSource=document 
+#### LinkedIn: https://www.linkedin.com/posts/kamal-solanki-46471522a_task1-github-internship-activity-6959950362090893313-wPbV?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 ## Task 2 - Stock Market Prediction and Forecasting using Stacked LSTM.
 ## IDE : Google Colab
