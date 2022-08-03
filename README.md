@@ -13,7 +13,7 @@
 ## Task 3 - Music Recommendation
 #### IDE : Google Colab
 #### Dataset: https://www.canva.com/link?target=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fkkbox-music-recommendation-challenge%2Fdata&design=DAEjrwWV35w&accessRole=viewer&linkSource=document
-#### LinkedIn: 
+#### LinkedIn: https://www.linkedin.com/posts/kamal-solanki-46471522a_task3-intern-github-activity-6960656434367799296-Wghu?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 ## Task 4 - Image to Pencil Sketch with Python
 #### IDE: Google Colab
@@ -25,3 +25,27 @@
 #### Dataset: https://www.canva.com/link?target=https%3A%2F%2Fbit.ly%2F2TK5Xn5&design=DAEjrwWV35w&accessRole=viewer&linkSource=document
 #### LinkedIn: 
 
+## Task 6 - Prediction using Decision Tree  Algorithm
+#### IDE: Google Colab
+#### Dataset: https://bit.ly/3kXTdox
+#### LinkedIn: 
+
+## TASK 7 - Develop A Neural Network That Can Read Handwriting
+#### IDE : Google Colab
+#### Dataset: 
+#### LinkedIn : 
+
+## Task 8 - Next Word Prediction
+#### IDE: Google Colab
+#### Dataset: https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/
+#### LinkedIn: 
+
+## Task 9 - Handwritten equation solver using CNN
+#### IDE : Google Colab
+#### Dataset : https://www.kaggle.com/xainano/handwrittenmathsymbols
+#### LinkedIn :
+
+## Task 10 - ML Facial recognition to detect mood and suggest songs accordingly 
+#### IDE : Google Colab
+#### Dataset: https://www.kaggle.com/datasets/msambare/fer2013
+#### LinkedIn : 
